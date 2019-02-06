@@ -1,4 +1,4 @@
 data/
-discord_analysis/test.py
-discord_analysis/old.py
-discord_analysis/generate_lines.pyc
+test.py
+.vscode/
+discord_analysis/read.pyc
